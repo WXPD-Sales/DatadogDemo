@@ -4,7 +4,7 @@
   <p align="center">
     This bot demo showcases the art of the possible, when it comes to how notifications from Datadog could be implemented into Webex messaging, using Adaptive Cards and user collaboration.
     <br />
-    <a href="https://youtu.be/s6VqLXaaACM"><strong>View Demo</strong></a>
+    <a href="https://youtu.be/zW4EhaTrscY"><strong>View Demo</strong></a>
     ·
     <a href="https://github.com/WXSD-Sales/DatadogDemo/issues"><strong>Report Bug</strong></a>
     ·
@@ -16,7 +16,7 @@
 
 ### Video Demo
 
-[![Datadog Video Demo](https://img.youtube.com/vi/s6VqLXaaACM/0.jpg)](https://youtu.be/s6VqLXaaACM, "Datadog Video Demo")
+[![Datadog Video Demo](https://img.youtube.com/vi/zW4EhaTrscY/0.jpg)](https://youtu.be/zW4EhaTrscY, "Datadog Video Demo")
 
 
 ### Built With
